@@ -2,7 +2,7 @@
 <h3 align="center">Aku Ratu — tapi kalian bisa panggil aku <b>Atuuu</b> 🌸</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atuuuu/atuuuu/main/hijab-coding.png" width="350" alt="Cewek berhijab sedang ngoding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
 </p>
 
 ---
