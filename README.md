@@ -1,5 +1,5 @@
 <h1 align="center">💜 Assalamu’alaikum warahmatullahi wabarakatuh sadayana 💜</h1>
-<h3 align="center">Aku Ratu — kalian bisa panggil aku <b>Atuuu</b> 🌸</h3>
+<h3 align="center">Aku Ratu — tapi kalian bisa panggil aku <b>Atuuu</b> 🌸</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/atuuuu/atuuuu/main/hijab-coding.png" width="350" alt="Cewek berhijab sedang ngoding" />
@@ -53,6 +53,9 @@ Sebagai apapun — selagi bermanfaat — kenalilah aku 🌸
 > — Atuuu 🌷  
 
 ---
+
+<h3 align="center">✨ Terima kasih sudah mampir melihat profilku! ✨</h3>
+<p align="center">Semoga harimu menyenangkan, penuh warna, dan selalu dalam semangat yang baik 💜</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=B388EB&height=80&section=footer"/>
